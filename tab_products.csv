@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Brand,UnitCost
+201,Smartphone,Electronics,Apple,600
+202,Laptop,Electronics,Dell,800
+203,Headphones,Electronics,Sony,100
+204,Tablet,Electronics,Samsung,400
+205,Smartwatch,Electronics,Fitbit,150
+206,Running Shoes,Fitness,Nike,120
+207,Yoga Mat,Fitness,Lululemon,50
+208,Dumbbells,Fitness,Decathlon,30
+209,Backpack,Travel,Osprey,100
+210,Suitcase,Travel,Samsonite,200
+211,Sunglasses,Fashion,Ray-Ban,150
+212,Watch,Fashion,Rolex,300
+213,Perfume,Fashion,Dior,80
+214,Handbag,Fashion,Coach,200
+215,Books,Education,Random House,20
+216,Learning Kit,Education,VTech,50
+217,Board Games,Entertainment,Hasbro,30
+218,Streaming Device,Entertainment,Roku,80
+219,Bluetooth Speaker,Entertainment,JBL,100
+220,Desktop Monitor,Computers,Acer,200
+221,Keyboard,Computers,Logitech,50
+222,Mouse,Computers,Microsoft,30
+223,Printer,Computers,Epson,150
+224,External Hard Drive,Computers,Western Digital,100
+225,Home Decor,Home & Living,IKEA,50
+226,Plant,Home & Living,Home Depot,30
+227,Cookware,Home & Living,Cuisinart,100
+228,Wall Art,Home & Living,Art.com,80
+229,Throw Pillows,Home & Living,West Elm,40
+230,Tool Set,DIY & Tools,Stanley,150
+231,Power Drill,DIY & Tools,DeWalt,200
+232,Toolbox,DIY & Tools,Craftsman,100
+233,Garden Hose,DIY & Tools,GreenWorks,50
+234,Paint Set,DIY & Tools,Behr,80
+235,Boarding Pass,Travel,Flight Ticket,200
+236,Hotel Reservation,Travel,Hilton,150
+237,Rental Car,Travel,Hertz,100
+238,Travel Insurance,Travel,Allianz,50
+239,Restaurant Voucher,Dining,OpenTable,80
+240,Meal Delivery,Dining,HelloFresh,100
+241,Coffee Subscription,Dining,Starbucks,50
+242,Wine Club Subscription,Dining,Laithwaite's,200
+243,Movie Ticket,Entertainment,AMC Theatres,15
+244,Concert Ticket,Entertainment,Live Nation,100
+245,Sports Event Ticket,Entertainment,StubHub,80
+246,Theme Park Ticket,Entertainment,Disneyland,150
+247,Spa Gift Card,Wellness,SpaFinder,100
+248,Massage Chair,Wellness,RelaxTheBack,1000
+249,Health Retreat,Wellness,The Ranch,3000
+250,Yoga Retreat,Wellness,Yogascapes,2000
