@@ -1,0 +1,51 @@
+CustomerID,Name,Email,Country,MembershipStatus
+101,John Doe,johndoe@example.com,USA,Gold
+102,Jane Smith,janesmith@example.com,UK,Silver
+103,Michael Johnson,michaeljohnson@example.com,Canada,Bronze
+104,Emily Brown,emilybrown@example.com,Australia,Gold
+105,Chris Wilson,chriswilson@example.com,Germany,Silver
+106,Sarah Lee,sarahlee@example.com,France,Bronze
+107,David Martinez,davidmartinez@example.com,Spain,Silver
+108,Lisa Taylor,lisataylor@example.com,Italy,Bronze
+109,Robert Garcia,robertgarcia@example.com,Mexico,Gold
+110,Michelle Anderson,michelleanderson@example.com,Brazil,Silver
+111,James Nguyen,jamesnguyen@example.com,Vietnam,Bronze
+112,Maria Hernandez,mariahernandez@example.com,Argentina,Gold
+113,William Kim,williamkim@example.com,South Korea,Silver
+114,Laura Martinez,lauramartinez@example.com,Chile,Bronze
+115,Christopher Wong,christopherwong@example.com,China,Gold
+116,Jennifer Thomas,jenniferthomas@example.com,India,Silver
+117,Matthew Rossi,matthewrossi@example.com,Russia,Bronze
+118,Samantha Lewis,samanthalewis@example.com,South Africa,Gold
+119,Daniel Wilson,danielwilson@example.com,New Zealand,Silver
+120,Ashley Brown,ashleybrown@example.com,Ireland,Bronze
+121,Alexander Taylor,alexandertaylor@example.com,Sweden,Gold
+122,Rebecca Moore,rebeccamoore@example.com,Denmark,Silver
+123,Josefina Lopez,josefinalopez@example.com,Argentina,Bronze
+124,David Schmidt,davidschmidt@example.com,Germany,Gold
+125,Isabella Lévesque,isabellal@example.com,France,Silver
+126,Santiago Vargas,santiagovargas@example.com,Spain,Bronze
+127,Sofia Silva,sofiasilva@example.com,Portugal,Gold
+128,Maximilian Müller,maximilianm@example.com,Switzerland,Silver
+129,Lucía Fernández,luciaf@example.com,Italy,Bronze
+130,Liam O'Connell,liamoconnell@example.com,Ireland,Gold
+131,Eva Wagner,evaw@example.com,Austria,Silver
+132,Antonio Moretti,antoniom@example.com,Italy,Bronze
+133,Olivia Johansson,oliviajohansson@example.com,Sweden,Gold
+134,Fabio Costa,fabiocosta@example.com,Portugal,Silver
+135,Emma Kovač,emmak@example.com,Croatia,Bronze
+136,Gabriel Sánchez,gabrielsanchez@example.com,Mexico,Gold
+137,Amelia Martin,ameliamartin@example.com,Spain,Silver
+138,Lucas Dufresne,lucasd@example.com,France,Bronze
+139,Emily Wilson,emilywilson@example.com,USA,Gold
+140,Lucas Gomes,lucasg@example.com,Brazil,Silver
+141,Emma Li,emmal@example.com,China,Bronze
+142,Daniel Kim,danielk@example.com,South Korea,Gold
+143,Sophie Leroy,sophiel@example.com,France,Silver
+144,Hugo Almeida,hugoa@example.com,Portugal,Bronze
+145,Anna Nowak,annanowak@example.com,Poland,Gold
+146,Lucas Silva,lucass@example.com,Brazil,Silver
+147,Isabella Rossi,isabellar@example.com,Italy,Bronze
+148,David Novák,davidn@example.com,Czech Republic,Gold
+149,Marta López,martal@example.com,Spain,Silver
+150,Ryan Smith,ryans@example.com,USA,Bronze
